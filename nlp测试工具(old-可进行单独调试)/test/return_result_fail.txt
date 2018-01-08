@@ -1,0 +1,5 @@
+<|------------------------nlp_366-----------------------|>
+输入字段为：我要发短信 (第2次输入) 
+{"code":0,"data":{"answer":"哈，这个都不知道啊，不会吧","detail":{"action":"","cmd":"","flag":0,"type":""},"display":"哈，这个都不知道啊，不会吧","intention":"CHAT","isAnswer":1,"isAttoRecord":1,"isDisplay":1,"status":0},"message":"成功 cloud","rawtext":"我要发短信","score":1,"context":{"chatNum":1,"currentDomain":"CHAT","currentState":"CHAT_ENDING","ignoreNum":1,"queryList":[{"countNLUParserNotHandled":0,"domain":"CHAT","rawtext":"我要发短信","sessionId":"-1","state":"CHAT_ENDING"}]}}
+输入字段为：明天下午开会 (第3次输入) 
+{"code":0,"data":{"answer":"对","detail":{"action":"","cmd":"","flag":0,"type":""},"display":"对","intention":"CHAT","isAnswer":1,"isAttoRecord":1,"isDisplay":1,"status":0},"message":"成功 cloud","rawtext":"明天下午开会","score":1,"context":{"chatNum":2,"currentDomain":"CHAT","currentState":"CHAT_ENDING","ignoreNum":2,"queryList":[{"countNLUParserNotHandled":0,"domain":"CHAT","rawtext":"我要发短信","sessionId":"-1","state":"CHAT_ENDING"}]}}
